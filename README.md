@@ -1,6 +1,6 @@
 # H1-B-visa-predictive Analysis
-Visualizing and predicting H1-B
+Visualizing and predicting H1-B using LogisticRegression
 
 Visualizing data through seaborn, Matplotlib
 
-Technologies used: Python, pandas, seaborn and matplotlib
+Technologies used: Python, pandas, seaborn, matplotlib, Scikit-Learn, ML and XGBoost
